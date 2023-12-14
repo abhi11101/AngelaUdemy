@@ -4,17 +4,35 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c7b77c34-6b5f-4d7a-8f63-878838250289" name="Changes" comment="Test2">
-      <change afterPath="$PROJECT_DIR$/Beginner/Day1/BandNameProject.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Beginner/Day1/InputTest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Beginner/Day2/1_TypeConversion.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Beginner/Day2/2_DataTypeExcercise.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Beginner/Day2/3_BMI_Calculator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Beginner/Day2/4_F_Strings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Beginner/Day2/5_AgeCalculator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Beginner/Day2/6_TipCalculatorProject.py" afterDir="false" />
+    <list default="true" id="c7b77c34-6b5f-4d7a-8f63-878838250289" name="Changes" comment="Day 1-2">
+      <change afterPath="$PROJECT_DIR$/Beginner/Day3/1_IfElse.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Beginner/Day3/2_EvenOdd.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Beginner/Day3/3_NestedIf.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Beginner/Day3/4_BMI.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Beginner/Day3/5_LeapYear.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Beginner/Day3/6_PizzaOrder.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Beginner/Day3/7_TrueLove.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Beginner/Day3/8_TreasureIsland.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Beginner/Day4/1_RandomModule.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Beginner/Day4/2_HeadTails.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Beginner/Day4/3_ListTemp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Beginner/Day4/4_PayBill.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Beginner/Day4/5_NestedLists.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Beginner/Day4/6_TreasureMap.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Beginner/Day4/7_RockPaperScissor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Beginner/Day5/1_forLoop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Beginner/Day5/2_AverageHeight.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Beginner/Day5/3_MaxNumber.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Beginner/Day5/4_SumOfEven.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Beginner/Day5/5_FizzBuzz.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Beginner/Day5/6_PasswordGenerator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Beginner/Day6/1_Functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Beginner/Day6/2_WhileLoop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Beginner/Day7/1_Hangman.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Beginner/Day8/1_ParameterizedFunction.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Beginner/Day8/2_PaintArea.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Beginner/Day8/3_Encryption.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Beginner/Day1/Temp.py" beforeDir="false" afterPath="$PROJECT_DIR$/Beginner/Day1/PrintConsole.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,11 +60,38 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.1_Functions.executor": "Run",
+    "Python.1_Hangman.executor": "Run",
+    "Python.1_IfElse.executor": "Run",
+    "Python.1_ParameterizedFunction.executor": "Run",
+    "Python.1_RandomModule.executor": "Run",
     "Python.1_TypeConversion.executor": "Run",
+    "Python.1_forLoop.executor": "Run",
+    "Python.2_AverageHeight.executor": "Run",
     "Python.2_DataTypeExcercise.executor": "Run",
+    "Python.2_EvenOdd.executor": "Run",
+    "Python.2_HeadTails.executor": "Run",
+    "Python.2_PaintArea.executor": "Run",
+    "Python.2_WhileLoop.executor": "Run",
     "Python.3_BMI_Calculator.executor": "Run",
+    "Python.3_Encryption.executor": "Run",
+    "Python.3_ListTemp.executor": "Run",
+    "Python.3_MaxNumber.executor": "Run",
+    "Python.3_NestedIf.executor": "Run",
+    "Python.4_BMI.executor": "Run",
     "Python.4_F_Strings.executor": "Run",
+    "Python.4_PayBill.executor": "Run",
+    "Python.4_SumOfEven.executor": "Run",
     "Python.5_AgeCalculator.executor": "Run",
+    "Python.5_FizzBuzz.executor": "Run",
+    "Python.5_LeapYear.executor": "Run",
+    "Python.5_NestedLists.executor": "Run",
+    "Python.6_PizzaOrder.executor": "Run",
+    "Python.6_TipCalculatorProject.executor": "Run",
+    "Python.6_TreasureMap.executor": "Run",
+    "Python.7_RockPaperScissor.executor": "Run",
+    "Python.7_TrueLove.executor": "Run",
+    "Python.8_TreasureIsland.executor": "Run",
     "Python.BandNameProject.executor": "Run",
     "Python.InputTest.executor": "Run",
     "Python.PrintConsole.executor": "Run",
@@ -63,8 +108,8 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.6_TipCalculatorProject">
-    <configuration name="2_DataTypeExcercise" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.3_Encryption">
+    <configuration name="1_Hangman" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AngelaUdemy" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -73,12 +118,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Beginner/Day2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Beginner/Day7" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Beginner/Day2/2_DataTypeExcercise.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Beginner/Day7/1_Hangman.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -87,7 +132,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="3_BMI_Calculator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="1_ParameterizedFunction" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AngelaUdemy" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -96,12 +141,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Beginner/Day2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Beginner/Day8" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Beginner/Day2/3_BMI_Calculator.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Beginner/Day8/1_ParameterizedFunction.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -110,7 +155,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="4_F_Strings" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="2_PaintArea" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AngelaUdemy" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -119,12 +164,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Beginner/Day2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Beginner/Day8" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Beginner/Day2/4_F_Strings.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Beginner/Day8/2_PaintArea.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -133,7 +178,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="5_AgeCalculator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="2_WhileLoop" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AngelaUdemy" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -142,12 +187,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Beginner/Day2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Beginner/Day6" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Beginner/Day2/5_AgeCalculator.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Beginner/Day6/2_WhileLoop.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -156,7 +201,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="6_TipCalculatorProject" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="3_Encryption" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AngelaUdemy" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -165,12 +210,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Beginner/Day2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Beginner/Day8" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Beginner/Day2/6_TipCalculatorProject.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Beginner/Day8/3_Encryption.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -204,11 +249,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.6_TipCalculatorProject" />
-        <item itemvalue="Python.5_AgeCalculator" />
-        <item itemvalue="Python.4_F_Strings" />
-        <item itemvalue="Python.3_BMI_Calculator" />
-        <item itemvalue="Python.2_DataTypeExcercise" />
+        <item itemvalue="Python.3_Encryption" />
+        <item itemvalue="Python.2_PaintArea" />
+        <item itemvalue="Python.1_ParameterizedFunction" />
+        <item itemvalue="Python.1_Hangman" />
+        <item itemvalue="Python.2_WhileLoop" />
       </list>
     </recent_temporary>
   </component>
@@ -229,7 +274,8 @@
       <updated>1702211613486</updated>
       <workItem from="1702211619229" duration="595000" />
       <workItem from="1702435496558" duration="366000" />
-      <workItem from="1702436237266" duration="6212000" />
+      <workItem from="1702436237266" duration="7132000" />
+      <workItem from="1702528902194" duration="18304000" />
     </task>
     <task id="LOCAL-00001" summary="Test1">
       <option name="closed" value="true" />
@@ -247,7 +293,15 @@
       <option name="project" value="LOCAL" />
       <updated>1702211964532</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Day 1-2">
+      <option name="closed" value="true" />
+      <created>1702478464851</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1702478464851</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -256,17 +310,45 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Test1" />
     <MESSAGE value="Test2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Test2" />
+    <MESSAGE value="Day 1-2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day 1-2" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/AngelaUdemy$2_HeadTails.coverage" NAME="2_HeadTails Coverage Results" MODIFIED="1702537930779" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Beginner/Day4" />
+    <SUITE FILE_PATH="coverage/AngelaUdemy$1_Functions.coverage" NAME="1_Functions Coverage Results" MODIFIED="1702551867287" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Beginner/Day6" />
+    <SUITE FILE_PATH="coverage/AngelaUdemy$3_ListTemp.coverage" NAME="3_ListTemp Coverage Results" MODIFIED="1702538427399" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Beginner/Day4" />
+    <SUITE FILE_PATH="coverage/AngelaUdemy$1_TypeConversion.coverage" NAME="1_TypeConversion Coverage Results" MODIFIED="1702476459220" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Beginner/Day2" />
+    <SUITE FILE_PATH="coverage/AngelaUdemy$6_TipCalculatorProject.coverage" NAME="6_TipCalculatorProject Coverage Results" MODIFIED="1702478215502" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Beginner/Day2" />
+    <SUITE FILE_PATH="coverage/AngelaUdemy$InputTest.coverage" NAME="InputTest Coverage Results" MODIFIED="1702475504119" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Beginner/Day1" />
+    <SUITE FILE_PATH="coverage/AngelaUdemy$2_WhileLoop.coverage" NAME="2_WhileLoop Coverage Results" MODIFIED="1702552180146" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Beginner/Day6" />
+    <SUITE FILE_PATH="coverage/AngelaUdemy$3_Encryption.coverage" NAME="3_Encryption Coverage Results" MODIFIED="1702558520483" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Beginner/Day8" />
     <SUITE FILE_PATH="coverage/AngelaUdemy$Temp.coverage" NAME="Temp Coverage Results" MODIFIED="1702211933241" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Beginner/Day1" />
+    <SUITE FILE_PATH="coverage/AngelaUdemy$6_TreasureMap.coverage" NAME="6_TreasureMap Coverage Results" MODIFIED="1702539768619" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Beginner/Day4" />
+    <SUITE FILE_PATH="coverage/AngelaUdemy$5_FizzBuzz.coverage" NAME="5_FizzBuzz Coverage Results" MODIFIED="1702542806803" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Beginner/Day5" />
+    <SUITE FILE_PATH="coverage/AngelaUdemy$2_DataTypeExcercise.coverage" NAME="2_DataTypeExcercise Coverage Results" MODIFIED="1702476601908" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Beginner/Day2" />
+    <SUITE FILE_PATH="coverage/AngelaUdemy$1_IfElse.coverage" NAME="1_IfElse Coverage Results" MODIFIED="1702529868869" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Beginner/Day3" />
+    <SUITE FILE_PATH="coverage/AngelaUdemy$7_TrueLove.coverage" NAME="7_TrueLove Coverage Results" MODIFIED="1702533009541" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Beginner/Day3" />
+    <SUITE FILE_PATH="coverage/AngelaUdemy$5_LeapYear.coverage" NAME="5_LeapYear Coverage Results" MODIFIED="1702531198021" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Beginner/Day3" />
+    <SUITE FILE_PATH="coverage/AngelaUdemy$5_NestedLists.coverage" NAME="5_NestedLists Coverage Results" MODIFIED="1702539128192" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Beginner/Day4" />
+    <SUITE FILE_PATH="coverage/AngelaUdemy$3_BMI_Calculator.coverage" NAME="3_BMI_Calculator Coverage Results" MODIFIED="1702477066554" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Beginner/Day2" />
     <SUITE FILE_PATH="coverage/AngelaUdemy$4_F_Strings.coverage" NAME="4_F_Strings Coverage Results" MODIFIED="1702477477605" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Beginner/Day2" />
     <SUITE FILE_PATH="coverage/AngelaUdemy$PrintConsole.coverage" NAME="PrintConsole Coverage Results" MODIFIED="1702471576744" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Beginner/Day1" />
-    <SUITE FILE_PATH="coverage/AngelaUdemy$2_DataTypeExcercise.coverage" NAME="2_DataTypeExcercise Coverage Results" MODIFIED="1702476601908" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Beginner/Day2" />
-    <SUITE FILE_PATH="coverage/AngelaUdemy$BandNameProject.coverage" NAME="BandNameProject Coverage Results" MODIFIED="1702476388773" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Beginner/Day1" />
-    <SUITE FILE_PATH="coverage/AngelaUdemy$1_TypeConversion.coverage" NAME="1_TypeConversion Coverage Results" MODIFIED="1702476459220" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Beginner/Day2" />
+    <SUITE FILE_PATH="coverage/AngelaUdemy$4_PayBill.coverage" NAME="4_PayBill Coverage Results" MODIFIED="1702538798259" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Beginner/Day4" />
+    <SUITE FILE_PATH="coverage/AngelaUdemy$6_PizzaOrder.coverage" NAME="6_PizzaOrder Coverage Results" MODIFIED="1702532167343" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Beginner/Day3" />
+    <SUITE FILE_PATH="coverage/AngelaUdemy$1_ParameterizedFunction.coverage" NAME="1_ParameterizedFunction Coverage Results" MODIFIED="1702556564873" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Beginner/Day8" />
+    <SUITE FILE_PATH="coverage/AngelaUdemy$2_PaintArea.coverage" NAME="2_PaintArea Coverage Results" MODIFIED="1702556950449" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Beginner/Day8" />
     <SUITE FILE_PATH="coverage/AngelaUdemy$5_AgeCalculator.coverage" NAME="5_AgeCalculator Coverage Results" MODIFIED="1702477924609" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Beginner/Day2" />
-    <SUITE FILE_PATH="coverage/AngelaUdemy$InputTest.coverage" NAME="InputTest Coverage Results" MODIFIED="1702475504119" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Beginner/Day1" />
-    <SUITE FILE_PATH="coverage/AngelaUdemy$3_BMI_Calculator.coverage" NAME="3_BMI_Calculator Coverage Results" MODIFIED="1702477066554" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Beginner/Day2" />
+    <SUITE FILE_PATH="coverage/AngelaUdemy$4_BMI.coverage" NAME="4_BMI Coverage Results" MODIFIED="1702530642469" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Beginner/Day3" />
+    <SUITE FILE_PATH="coverage/AngelaUdemy$1_RandomModule.coverage" NAME="1_RandomModule Coverage Results" MODIFIED="1702537801778" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Beginner/Day4" />
+    <SUITE FILE_PATH="coverage/AngelaUdemy$1_Hangman.coverage" NAME="1_Hangman Coverage Results" MODIFIED="1702555134210" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Beginner/Day7" />
+    <SUITE FILE_PATH="coverage/AngelaUdemy$4_SumOfEven.coverage" NAME="4_SumOfEven Coverage Results" MODIFIED="1702542659492" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Beginner/Day5" />
+    <SUITE FILE_PATH="coverage/AngelaUdemy$3_MaxNumber.coverage" NAME="3_MaxNumber Coverage Results" MODIFIED="1702542358994" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Beginner/Day5" />
+    <SUITE FILE_PATH="coverage/AngelaUdemy$7_RockPaperScissor.coverage" NAME="7_RockPaperScissor Coverage Results" MODIFIED="1702540519705" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Beginner/Day4" />
+    <SUITE FILE_PATH="coverage/AngelaUdemy$BandNameProject.coverage" NAME="BandNameProject Coverage Results" MODIFIED="1702476388773" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Beginner/Day1" />
+    <SUITE FILE_PATH="coverage/AngelaUdemy$2_EvenOdd.coverage" NAME="2_EvenOdd Coverage Results" MODIFIED="1702530016845" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Beginner/Day3" />
+    <SUITE FILE_PATH="coverage/AngelaUdemy$1_forLoop.coverage" NAME="1_forLoop Coverage Results" MODIFIED="1702541193505" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Beginner/Day5" />
+    <SUITE FILE_PATH="coverage/AngelaUdemy$3_NestedIf.coverage" NAME="3_NestedIf Coverage Results" MODIFIED="1702530234363" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Beginner/Day3" />
+    <SUITE FILE_PATH="coverage/AngelaUdemy$8_TreasureIsland.coverage" NAME="8_TreasureIsland Coverage Results" MODIFIED="1702533643457" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Beginner/Day3" />
+    <SUITE FILE_PATH="coverage/AngelaUdemy$2_AverageHeight.coverage" NAME="2_AverageHeight Coverage Results" MODIFIED="1702541949349" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Beginner/Day5" />
   </component>
 </project>
